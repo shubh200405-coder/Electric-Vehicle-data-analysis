@@ -18,7 +18,7 @@ This project presents an interactive dashboard built using Tableau to analyze El
 - Data Visualization
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](images/dashboard.PNG)
 
 ## 🎯 Skills Demonstrated
 - Data Analysis
